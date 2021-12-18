@@ -1,0 +1,30 @@
+
+.first {
+    top: 350px;
+    left: 100px;
+    width: 800px;
+    bottom: 200px;
+}
+
+.second {
+    top: 350px;
+    left:1000px ;
+    width: 800px;
+    bottom: 200px;
+}
+
+.third {
+    top: 1000px;
+    left: 100px;
+    width: 800px;
+    bottom: 100px;
+}
+
+
+
+.fourth {
+    top: 1000px;
+    left: 1000px;
+    width: 800px;
+    bottom: 100px;
+}
